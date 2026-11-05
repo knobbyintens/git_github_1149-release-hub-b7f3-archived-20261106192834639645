@@ -1,2 +1,6 @@
-# git_github_1149-release-hub-b7f3
-Copperleaf Desktop documentation and release tracking
+# Copperleaf Desktop
+
+Copperleaf Desktop is a cross-platform notes and workspace application.
+
+- `RELEASES.md` — public release notes
+- `docs/RELEASING.md` — internal release checklist
